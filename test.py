@@ -1,1 +1,2 @@
 print("Frist")
+print("New!")
